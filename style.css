@@ -1,0 +1,23 @@
+body{
+    background-image: url('https://th.bing.com/th/id/OIP.0Z3us_dOMe8VrgUVaZleCQHaEK?w=324&h=182&c=7&r=0&o=5&pid=1.7');
+}
+fieldset{
+    height: 300px;
+    width: 500px;
+    position: relative;
+    left:400px;
+    top: 150px;
+    background-color: goldenrod;
+}
+h2{
+    font-size: xx-large;
+}
+#DOB{
+    size: 500px;
+}
+button{
+    font-size: x-large;
+    position: relative;
+    top: 30px;
+    color: crimson;
+}
